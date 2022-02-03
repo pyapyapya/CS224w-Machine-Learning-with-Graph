@@ -1,2 +1,2 @@
-# CS224w-Maching-Learning-with-Graph
-Studying CS224w: Maching Learning with Graph
+# CS224w-Machine-Learning-with-Graphs
+Studying CS224w: Machine Learning with Graphs
